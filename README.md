@@ -7,9 +7,13 @@ The news medium has evolved into a means of informing people about what is going
 
 ## Problem statement
 
+![This is an image](https://github.com/aditi2490/Fake-News-Detection/blob/main/wordcloud_tn.png)
+
 Fake news, news manipulation and the lack of trust in the media are growing problems within our society. In order to address this problem, an in depth understanding of fake news is required as it influences an individual’s perception.
 
 ## Why is it important to detect Fake News?
+
+![This is an image](https://github.com/aditi2490/Fake-News-Detection/blob/main/wordcloud_fn.png)
 
 Fake news can come from a variety of sources and be spread across multiple platforms. One of the characteristics of fake news is that the content appears to be produced by credible news outlets which causes the confusion and makes it more difficult for news consumers to determine what is true.
 
